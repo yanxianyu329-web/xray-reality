@@ -19,8 +19,8 @@
           "alpn": ["h2", "http/1.1"],
           "certificates": [
             {
-              "certificateFile": "/path/to/cert.pem",
-              "keyFile": "/path/to/key.pem"
+              "certificateFile": "cert.pem",
+              "keyFile": "key.pem"
             }
           ]
         }
