@@ -6,7 +6,7 @@
       "settings": {
         "clients": [
           {
-            "id": "替换成你的UUID",
+            "id": "29af56d4-cb1b-4555-a30f-7d5204e8718f",
             "flow": "xtls-rprx-vision"
           }
         ],
