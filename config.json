@@ -17,15 +17,7 @@
       },
       "streamSettings": {
         "network": "tcp",
-        "security": "reality",
-        "realitySettings": {
-          "show": false,
-          "dest": "www.microsoft.com:443",
-          "serverNames": ["www.microsoft.com"],
-          "xver": 0,
-          "privateKey": "k4FvqzH4ik2Kx6v6WbZsXrCkkPOY+Xo6MpwS6Dh5RmM=",
-          "shortIds": ["1234567890abcdef"]
-        }
+        "security": "tls"
       }
     }
   ],
