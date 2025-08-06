@@ -9,15 +9,14 @@
       "settings": {
         "clients": [
           {
-            "id": "023deab4-c338-43a5-b8da-7783e3fbc705",
-            "flow": "xtls-rprx-vision"
+            "id": "023deab4-c338-43a5-b8da-7783e3fbc705"
           }
         ],
         "decryption": "none"
       },
       "streamSettings": {
         "network": "tcp",
-        "security": "tls"
+        "security": "none"
       }
     }
   ],
